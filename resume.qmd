@@ -4,6 +4,4 @@ format: html
 ---
 Here is my resume:
 
-##Embedded PDF
-
-<embed src="/docs/functionalexample.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="functionalsample.pdf" type="application/pdf" width="100%" height="600px">

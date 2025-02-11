@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - functionalsample.pdf
 
 website:
   title: "Alan Cai"
