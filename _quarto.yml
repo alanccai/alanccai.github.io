@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "alanccai.github.io"
+  title: "Alan Cai"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

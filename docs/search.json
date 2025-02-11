@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "alanccai.github.io",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Here is my resume:\n##Embedded PDF"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am a PhD student in the Watershed Sciences program at Colorado State University - Fort Collins. I am interested in the conservation and restoration of aquatic ecosystems. I am a member of the Landscape Modeling research group of Dr. Jessica O’Connell, and I study tidal marsh dynamics and resilience focusing on sites on Sapelo Island, Georgia. Previously, I worked on wet meadow restoration monitoring in California, and researched the ecological management of Western U.S. rivers. I am excited to develop new insights about tidal marsh carbon cycling, flooding dynamics, and phenology. Additionally, I was the Graduate Student member on the UCOWR (Universities Council on Water Resources) Board of Directors from 2023-2024."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+  },
+  {
+    "objectID": "projects.html#building-a-project-website",
+    "href": "projects.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
   }
 ]
