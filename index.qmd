@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: /imgs/AlanCai_photo.png
+title: "Alan Cai"
+image: imgs/AlanCai_photo.png
 about: 
   template: trestles
   image-shape: rounded
