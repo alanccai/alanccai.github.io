@@ -14,10 +14,16 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+      - href: https://github.com/alanccai
+        text: My Github
 
+  page-footer:
+     background: light # or `dark`
+     left: Copyright 2025, Alan Cai
+     right: "A journey of a thousand miles begins with a single step - Chinese Proverb"
 format:
   html:
-    theme: cosmo
+    theme: styles.scss
     css: styles.css
     toc: true
     page-layout: full
