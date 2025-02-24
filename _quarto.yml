@@ -16,7 +16,9 @@ website:
         text: Resume
       - href: https://github.com/alanccai
         text: My Github
-      - href: https://alanccai.github.io/ESS330_Lab2_MinnesotaTreeGrowth/ESS330_lab2.html  
+      - href: - href: https://alanccai.github.io/ESS330_Lab2_MinnesotaTreeGrowth/ESS330_lab2.html  
+        text: ESS330 Lab 2
+      
 
   page-footer:
      background: light # or `dark`
