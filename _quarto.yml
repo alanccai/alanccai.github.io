@@ -3,7 +3,6 @@ project:
   output-dir: docs
   resources:
     - functionalsample.pdf
-    - R/
 
 website:
   title: "Alan Cai"
@@ -17,6 +16,7 @@ website:
         text: Resume
       - href: https://github.com/alanccai
         text: My Github
+      - href: https://alanccai.github.io/ESS330_Lab2_MinnesotaTreeGrowth/ESS330_lab2.html  
 
   page-footer:
      background: light # or `dark`
